@@ -3,3 +3,6 @@ ud036_StarterCode is the source code which gathers a list of movies and their in
 
 # Installation
 Clone the GitHub repository.
+
+# Usage
+Open  entertainment_center.py in IDLE, and run the script to generate the webpage.
